@@ -1,0 +1,7 @@
+.nn
+{
+    display: flex;
+    justify-content:space-evenly;
+    background-color: black;
+    padding: 0.32rem;
+}

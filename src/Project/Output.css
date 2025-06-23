@@ -1,0 +1,26 @@
+.s1
+{
+    background-image: url("/src/images/c1.jpg");
+    background-size: cover;
+    min-height: 100vh;
+    
+}
+.main1
+{
+    min-height: 23vh;
+    display:flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1
+{
+    display: flex;
+    padding: 0.5rem;
+    justify-content: center;
+}
+.bn
+{
+    display: flex;
+    justify-content: center;
+}
