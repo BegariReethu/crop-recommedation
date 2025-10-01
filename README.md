@@ -1,6 +1,32 @@
+## Installation
+
+1. Clone the repository:
+   git clone https://github.com/BegariReethu/crop-recommedation.git
+2. Navigate to the project folder:
+   cd crop-recommedation
+3. Install dependencies:
+   npm install
+4. Start the development server:
+   npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Project Overview
+
+This project predicts suitable crops based on soil and environmental parameters.
+- Inputs: Nitrogen, Phosphorus, Potassium, Temperature, Humidity, Rainfall
+- Output: Recommended crop
+- Built with React for frontend interface and Python/ML backend
+
+ ## Example Output
+
+- Input: Nitrogen=90, Phosphorus=42, Potassium=43, Temperature=20°C, Humidity=80%, Rainfall=200mm
+- Recommended Crop: Rice
+
+
 
 ## Available Scripts
 
